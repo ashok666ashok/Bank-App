@@ -1,0 +1,21 @@
+.logo{
+    
+    border-radius: 50%;
+    box-shadow: 1px 1px 15px 1px;
+    width: 100px;
+    height: 100px;
+    display: grid;
+    place-items: center;
+}
+.w{
+    display: grid;
+    place-items: center;
+    box-shadow: 1px 1px 15px 1px;
+
+}
+.navh{
+    vertical-align: middle;
+    position: relative;
+    top: 5px;
+    font-weight: bolder;
+}

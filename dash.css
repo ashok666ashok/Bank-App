@@ -1,0 +1,39 @@
+body {
+    overflow-x:hidden ;
+
+}
+.backg{
+    background-image: url(./dash\ bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.head {
+  box-shadow: 1px 1px 15px 0px;
+  color: whitesmoke;
+  font-weight: bolder;
+  background-color: rgba(255, 255, 255, 0.07);
+
+}
+.input {
+    box-shadow: 1px 1px 15px 1px;
+    color: rgba(0, 0, 0, 0.584);
+    
+    background-color: rgba(255, 255, 255, 0.07);
+}
+.button {
+  display: grid;
+  place-items: center;
+}
+.navh ul li {
+  font-weight: bold;
+}
+.b{
+  background-color:white ;
+  text-align: center;
+  border-radius: 5px;
+}
+
